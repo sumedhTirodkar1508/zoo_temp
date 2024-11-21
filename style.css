@@ -1,0 +1,257 @@
+.notebook {
+    width: 100%;
+    height: fit-content;
+    background-image: url("./pictures/notebook.jpg");
+    background-repeat: repeat;
+    background-size: 30em;
+    font-size:20px;
+    display:flex;
+    justify-content:end;
+    min-height:100vh;
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url("./pictures/dots.jpg");
+    margin: 0em 0em 0em 2.2em;
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+}
+.wrapper {
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+    
+}
+
+#header {
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+#header * {
+    margin: 1em;
+}
+
+.nameWord {
+    width: 25em;
+    height: 7em;
+}
+.zooWord {
+    width: 15em;
+    height: 7em;
+}
+.tripWord {
+    width: 16em;
+    height:8em;
+}
+
+#explore {
+    border-color:rgb(208, 76, 193);
+    font-size: 3em;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    background-color: rgb(213, 145, 205);
+    border-radius: 0.25em;
+    width:fit-content;
+    border-width: 0.1em;
+    text-align: center;
+    color:black;
+}
+
+#explore:hover:enabled {
+    cursor:pointer;
+    border-color:rgb(208, 208, 76);;
+    background-color: rgb(223, 223, 140);
+}
+
+#bird, #hare, #bear, #turtle, #sheep, #duck, #caterpillar, #bee {
+    width:22em;
+    height:27em;
+    margin:1em 0em 1em 0em;
+    background-image: url("./pictures/frame.jpg");
+    background-size: 22em;
+    background-repeat: no-repeat;
+    display: none;
+}
+
+#bird:hover, #hare:hover, #bear:hover, #turtle:hover, #sheep:hover, #duck:hover, #caterpillar:hover, #bee:hover {
+    cursor:pointer;
+}
+
+#birdScene, #sheepScene, #duckScene, #hareScene, #bearScene, #beeScene, #turtleScene, #caterpillarScene {
+    border: 5px solid;
+    margin:1.5em 0em 0em 0.8em;
+}
+
+.name {
+    font-size: 1.5em;
+    text-align: center;
+    font-family: "Permanent Marker", cursive;
+}
+
+/* _____________________________________________________________________________________________________________ */
+
+.card {
+    width: 100%;
+    height: fit-content;
+    background-image: url("./pictures/dots.jpg");
+    display:none;
+    min-height:100vh;
+
+}
+.cardWrapper {
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+}
+
+.backArrow {
+    height: 4em;
+    width: 4em;
+    margin: 2em;
+}
+
+.backArrow:hover {
+    cursor:pointer;
+}
+
+#birdSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(247, 203, 230);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(241, 153, 207);
+    display:none;
+}
+
+#sheepSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(177, 240, 230);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(102, 228, 207);
+    display:none;
+}
+
+#hareSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(216, 177, 240);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(181, 91, 237);
+    display:none;
+}
+
+#bearSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(177, 240, 181);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(106, 216, 113);
+    display:none;
+}
+
+#turtleSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(243, 233, 149);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(236, 221, 80);
+    display:none;
+}
+
+#duckSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(243, 194, 149);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(231, 150, 74);
+    display:none;
+}
+
+#caterpillarSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(243, 149, 149);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(237, 65, 65);
+    display:none;
+}
+
+#beeSolo {
+    margin: 2em 0em 2em 0em;
+    background-color: rgb(149, 157, 243);
+    width: 25em;
+    height: 45em;
+    border: 0.25em solid, rgb(74, 87, 237);
+    display:none;
+}
+
+.sciencePic {
+    height:20px;
+    width:20px;
+    margin: 0px 4px 0px 0px;
+}
+
+.foodPic, .namePic, .deathPic {
+    height:30px;
+    width:30px;
+    margin: 0px 4px 0px 0px;
+}
+
+.pictureBox {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    margin: 0px;
+}
+
+.info {
+    font-size: 1.2em;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+}
+
+.info:hover {
+    font-size: 1.5em;
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 500;
+}
+
+@media only screen and (max-width:733px) {
+    .nameWord {
+        width: 18em;
+        height: 5em;
+    }
+    .zooWord {
+        width: 11em;
+        height: 5em;
+    }
+    .tripWord {
+        width: 12em;
+        height:6em;
+    }
+    .notebook {
+        background-image: none;
+    }
+    .container {
+        margin: 0px;
+    }
+    #bird, #hare, #bear, #turtle, #sheep, #duck, #caterpillar, #bee {
+        width:20em;
+        background-size: 21em;
+    }
+
+    #birdScene, #sheepScene, #duckScene, #hareScene, #bearScene, #beeScene, #turtleScene, #caterpillarScene {
+        border: none;
+        margin:1em 0em 0em 0em;
+    }
+    .card, .notebook {
+        width:fit-content;
+    }
+}

@@ -1,0 +1,305 @@
+[{
+    "name": "Duck",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "scientific_name": "Anatidae"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Ocean",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Insects, Frogs, Plants, Shellfish",
+      "biggest_threat":"Habitat destruction",
+      "distinctive_feature": "Long, broad beak and webbed feet",
+      "wingspan": "60cm - 80cm (24in - 31in)",
+      "habitat": "Rivers, lakes and woodland wetlands",
+      "diet": "Omnivore",
+      "lifestyle": "Pack",
+      "favorite_food": "Insects",
+      "type": "Bird",
+      "average_clutch_size": "5",
+      "slogan": "Rows of tiny plates line their teeth!",
+      "color": "BrownGreyYellowBlackWhiteGreen",
+      "skin_type": "Feathers",
+      "top_speed": "88 mph",
+      "lifespan": "4 - 8 years",
+      "weight": "0.7kg - 1.4kg (1.5lbs - 3lbs)",
+      "length": "30cm - 50cm (12in - 20in)"
+    }
+  },
+  {
+    "name": "Bighorn Sheep",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Bovidae",
+      "genus": "Ovis",
+      "scientific_name": "Ovis canadensis"
+    },
+    "locations": [
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "name_of_young": "lamb",
+      "group_behavior": "Herd",
+      "estimated_population_size": "70,000",
+      "biggest_threat": "Man",
+      "most_distinctive_feature": "Big horns",
+      "other_name(s)": "Rocky Mountain sheep, bighorn",
+      "gestation_period": "177 days",
+      "litter_size": "1",
+      "habitat": "Mountainous grasslands",
+      "predators": "Mountain lions, wolves, bobcats, coyotes and golden eagles",
+      "diet": "Herbivore",
+      "favorite_food": "Plants and shrubs",
+      "type": "Mammals",
+      "common_name": "Bighorn Sheep",
+      "number_of_species": "1",
+      "location": "Western mountainous regions of North America",
+      "group": "Herd",
+      "color": "WhiteDark BrownGrey-Brown",
+      "skin_type": "Hair",
+      "top_speed": "18 mph",
+      "lifespan": "10-15 years",
+      "weight": "34kg-143kg (74lbs-315lbs)",
+      "height": "74cm- 104cm(29in-41in)",
+      "length": "140cm-200cm (55in-79in",
+      "age_of_sexual_maturity": "24 months",
+      "age_of_weaning": "6 months"
+    }
+  },
+  {
+    "name": "Caterpillar",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Lepidoptera",
+      "scientific_name": "Lepidoptera"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Leaves, Plants, Flowers",
+      "biggest_threat":"Habitat destruction",
+      "habitat": "Quiet forests and pastures",
+      "predators": "Birds, Wasps, Mammals",
+      "diet": "Herbivore",
+      "favorite_food": "Leaves",
+      "common_name": "Caterpillar",
+      "number_of_species": "21000",
+      "location": "Worldwide",
+      "slogan": "The larvae of a moth or butterfly!",
+      "color": "YellowRedBlueBlackGreenOrange",
+      "skin_type": "Hair"
+    }
+  },
+  {
+    "name": "Sea Turtle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Chelonioidea",
+      "scientific_name": "Chelonioidea"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Crabs, Seaweed, Jellyfish",
+      "biggest_threat": "Climate change",
+      "habitat": "Tropical coastal waters and beaches",
+      "diet": "Omnivore",
+      "average_litter_size": "100",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fish",
+      "type": "Reptile",
+      "slogan": "Always return to the same beach to lay eggs!",
+      "color": "BrownTanGreen",
+      "skin_type": "Scales",
+      "top_speed": "2.4 mph",
+      "lifespan": "60-80 years",
+      "weight": "158-400kg (350-882lbs)"
+    }
+  },
+  {
+    "name": "Eastern Bluebird",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Passeriformes",
+      "family": "Turdidae",
+      "genus": "Sialia",
+      "scientific_name": "Sialia sialis"
+    },
+    "locations": [
+      "Central-America",
+      "North-America"
+    ],
+    "characteristics": {
+      "prey": "Insects, snails, spiders, beetles, earthworms, grasshoppers, katydids, crickets and other small invertebrates.",
+      "favorite_food": "Insects",
+      "estimated_population_size": "20 million",
+      "biggest_threat": "Habitat destruction",
+      "most_distinctive_feature": "The bright blue color of the male’s feathers",
+      "other_name(s)": "Blue robin",
+      "wingspan": "9.8 to 12.6 inches across",
+      "incubation_period": "About two weeks.",
+      "litter_size": "Three to seven",
+      "habitat": "Habitat includes farmland, open country, parks, orchards, backyards, hedgerows",
+      "predators": "Rodents, black bears, raccoons, snakes, cats, birds of prey and fire ants.",
+      "diet": "Omnivore",
+      "type": "Bird",
+      "common_name": "Bluebird",
+      "number_of_species": "8",
+      "location": "North and Central America east of the Rocky Mountains",
+      "average_clutch_size": "7",
+      "nesting_location": "Abandoned woodpecker hole or other tree cavities a few feet from the ground.",
+      "age_of_molting": "15 days",
+      "migratory": "1",
+      "color": "RedBlueWhiteOrange",
+      "skin_type": "Feathers",
+      "top_speed": "17 mph",
+      "lifespan": "Six to 10 years",
+      "weight": "0.95 to 1.2 ounces",
+      "length": "6.3 to 8.3 inches"
+    }
+  },
+  {
+    "name": "Arctic Hare",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Lagomorpha",
+      "family": "Leporidae",
+      "genus": "Lepus",
+      "scientific_name": "Lepus Arcticus"
+    },
+    "locations": [
+      "North-America"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Willow, Flowers",
+      "biggest_threat": "Climate change",
+      "distinctive_feature": "Thick fur that changes colour with seasons",
+      "habitat": "Tundra and rocky areas",
+      "diet": "Herbivore",
+      "average_litter_size": "6",
+      "lifestyle": "Herd",
+      "favorite_food": "Grass",
+      "type": "Mammal",
+      "slogan": "Eats berries found in the snow!",
+      "color": "GreyWhite",
+      "skin_type": "Fur",
+      "top_speed": "40 mph",
+      "lifespan": "3 - 8 years",
+      "weight": "4kg - 5kg (9lbs - 12lbs)",
+      "length": "48cm - 67cm (19in - 26in)"
+    }
+  },
+  {
+    "name": "Brown Bear",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "genus": "Ursus",
+      "scientific_name": "Ursus arctos"
+    },
+    "locations": [
+      "Asia",
+      "Eurasia",
+      "Europe",
+      "North-America"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Fruit, Insects",
+      "biggest_threat": "Habitat destruction",
+      "distinctive_feature": "Powerful forearms and hibernate in the winter",
+      "habitat": "Forest and mountainous regions",
+      "predators": "Human, Wolf, Cougar",
+      "diet": "Omnivore",
+      "average_litter_size": "3",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fish",
+      "type": "Mammal",
+      "slogan": "A dominant predator in it's environment!",
+      "color": "BrownBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "35 mph",
+      "lifespan": "20 - 30 years",
+      "weight": "136kg - 390kg (300lbs - 860lbs)",
+      "height": "1.5m - 2.8m (5ft - 9.2ft)"
+    }
+  },
+  {
+    "name": "Bee",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Andrenidae",
+      "genus": "Apis",
+      "scientific_name": "Apis mellifera"
+    },
+    "locations": [
+      "Africa",
+      "Asia",
+      "Central-America",
+      "Eurasia",
+      "Europe",
+      "North-America",
+      "Oceania",
+      "South-America"
+    ],
+    "characteristics": {
+      "name_of_young": "Larva, grub",
+      "favorite_food": "Nectar",
+      "group_behavior": "Solitary/Colony",
+      "estimated_population_size": "at least two trillion",
+      "biggest_threat": "Disease",
+      "most_distinctive_feature": "Ability of some to make honey and beeswax",
+      "gestation_period": "three days",
+      "litter_size": "Six to 1000 per day",
+      "habitat": "Any habitat where there are flowering plants",
+      "predators": "Primates, wasps, dragonflies, birds, small mammals",
+      "diet": "Omnivore",
+      "type": "insect",
+      "common_name": "bee",
+      "location": "everywhere except Antarctica",
+      "color": "Multi-colored",
+      "skin_type": "Exoskeleton",
+      "top_speed": "20 mph"
+    }
+  }
+]
